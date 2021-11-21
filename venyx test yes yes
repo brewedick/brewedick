@@ -274,7 +274,7 @@ do
 					Image = "rbxassetid://4595286933",
 					ImageColor3 = themes.Accent,
 					ScaleType = Enum.ScaleType.Slice,
-					SliceCenter = Rect.new(4, 4, 296, 296)
+					SliceCenter = Rect.new(4, 4, 296, 296) --i had to add something to edit this, so i added this random thing (not the slice center)
 				}, {
 					utility:Create("TextLabel", { -- title
 						Name = "Title",
